@@ -1,0 +1,13 @@
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.AssemblyInfo.cs
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netcoreapp3.1\AppCalculadora.exe
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netcoreapp3.1\AppCalculadora.deps.json
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netcoreapp3.1\AppCalculadora.runtimeconfig.json
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netcoreapp3.1\AppCalculadora.runtimeconfig.dev.json
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netcoreapp3.1\AppCalculadora.dll
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netcoreapp3.1\AppCalculadora.pdb
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.dll
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.pdb
+C:\Users\andri\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netcoreapp3.1\AppCalculadora.genruntimeconfig.cache
